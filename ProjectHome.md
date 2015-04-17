@@ -1,0 +1,2 @@
+ce projet s'intègre dans le cadre d'un stage de 2 mois à l'entreprise ST2I et il s'intitule gestion des projets et aide à la décision permettant de gérer les ressources humaines dans la société et la décision concernant ses projets :)
+Il est développé avec les nouvelles technologies java/j2ee: Hibernate, JSF
